@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 
-typedef long long ll;
+typedef long long int ll;
 #define vi vector<int>
 #define pii pair<int, int>
 #define mp make_pair
